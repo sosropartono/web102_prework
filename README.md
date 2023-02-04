@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/vJ8N9N3.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/vJ8N9N3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with ... GIPHY CAPTURE
