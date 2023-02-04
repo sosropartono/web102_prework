@@ -20,6 +20,8 @@ body {
 }
 
 .stats-container {
+    /* cursor: pointer;
+    box-shadow: 0 0 30px lightblue; */
     display: flex;
 }
 
@@ -50,11 +52,26 @@ body {
 
 .game-card {
     background-color: #FFFFFF;
+    border-radius: 10px;
+
     padding: 1%;
     margin: 1%;
     width: 300px;
     text-align: center;
-    border-radius: 7px;
+    /* border-radius: 7px; */
+    
+    display: flex;
+    justify-content: space-between;
+    /* align-items: space-between; */
+    flex-direction: column;
+    /*Because axis is now column, and justify content controls main axis 
+    it is then responsible for space between the items*/
+
+}
+
+/* Added class title-name to every <p> element in game card to bold it */
+.title-name{
+    font-weight: bold;
 }
 
 .game-card:hover {
