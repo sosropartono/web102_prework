@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/vJ8N9N3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/vJ8N9N3.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with ... GIPHY CAPTURE
@@ -40,10 +40,10 @@ GIF created with ... GIPHY CAPTURE
 
 Describe any challenges encountered while building the app.
 
--I have not worked with javascript in a while, so getting used to the syntax and relearning methods such as reduce, and filter was challenging.
--I also had a difficult time understanding the intricacies of destructuring, needed to look up how it worked on MDN documents. 
--In order to make the app look like the example I had to figure out which css elements to apply new rules to and learn some new css rules. 
--Overall a great and enriching experience. 
+* I have not worked with javascript in a while, so getting used to the syntax and relearning methods such as reduce, and filter was challenging.
+* I also had a difficult time understanding the intricacies of destructuring, needed to look up how it worked on MDN documents. 
+* In order to make the app look like the example I had to figure out which css elements to apply new rules to and learn some new css rules. 
+* Overall a great and enriching experience. 
 
 ## License
 
